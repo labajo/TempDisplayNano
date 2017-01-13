@@ -17,3 +17,6 @@ Temperature and humidity display.
 
 ## Schematics:
 ![Schematics](SchematicsNanoTempOled.jpg)
+
+## Device
+![Device](Device.jpg)
